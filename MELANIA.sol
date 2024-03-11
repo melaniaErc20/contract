@@ -1,5 +1,19 @@
 // SPDX-License-Identifier: UNLICENSE
 
+// Whitespace added here to make sure lines align with the verified contract on Etherscan.
+
+
+
+
+
+
+
+
+
+
+
+
+
 pragma solidity 0.8.23;
 
 abstract contract Context {
